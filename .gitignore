@@ -1,0 +1,9 @@
+auth.json
+
+# Ignore the database file
+.vercel
+.env
+venv
+
+downloaded_threads
+markdown_files

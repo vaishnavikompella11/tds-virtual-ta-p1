@@ -1,0 +1,14 @@
+beautifulsoup4
+markdownify
+playwright
+requests
+fastapi
+numpy
+pydantic
+httpx
+uvicorn
+aiohttp
+python-dotenv
+html2text
+tqdm
+markdown
